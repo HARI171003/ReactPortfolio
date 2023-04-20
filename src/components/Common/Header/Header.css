@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.body{
+    padding: 12px;
+    padding-bottom: 36px;
+}
+.Hcontainer{
+    display: flex;
+    /* background-color: bisque; */
+    padding: 1rem;
+    justify-content: space-between;
+
+}
+.menu{
+    margin-right: 50px;
+}
+.menuitems>li{
+list-style: none;
+display: inline-block;
+padding: 1.5rem;
+cursor: pointer;
+}
+.Logo{
+margin-top: 25px;
+margin-left: 150px;
+}
